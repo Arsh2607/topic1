@@ -1,0 +1,146 @@
+body {
+  background-color: #fefbe9;
+}
+.deakin {
+  text-align: center;
+  background-color: orange;
+  color: orange;
+}
+
+.header {
+  background-color: rgba(68, 68, 68, 0.089);
+  border-left: 6px solid #567effec;
+  border-top: 6px solid #1098ad;
+  border-right: 6px solid #567effec;
+  border-bottom: 6px solid #1098ad;
+}
+
+.box {
+  padding-top: 15px;
+  text-align: center;
+  background-color: rgba(68, 68, 68, 0.24);
+  width: 100%;
+  height: 80px;
+  border: 5px solid #1098ad;
+  border-radius: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.sub-heading {
+  text-align: center;
+}
+
+.marquee {
+  font-size: 15 px;
+}
+
+.b1 {
+  background-color: #4caf50;
+  border: none;
+  border-radius: 10%;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.b1 {
+  background-color: rgba(159, 231, 191, 0.979);
+  color: black;
+  border: 6px solid #9ed4a0c5;
+}
+
+.b1:hover {
+  transform: scale(1.2);
+  background-color: #4caf50;
+  color: white;
+}
+
+.b2 {
+  background-color: #fed8b1;
+  border: none;
+  border-radius: 10%;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.b2 {
+  background-color: #fed8b1;
+  color: black;
+  border: 6px solid #cf955a67;
+}
+
+.b2:hover {
+  transform: scale(1.2);
+  background-color: #fed8b1;
+  color: white;
+}
+
+.b3 {
+  background-color: #b19cd9;
+  border: none;
+  border-radius: 10%;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.b3 {
+  background-color: #b19cd9a2;
+  color: black;
+  border: 6px solid #b19cd9;
+}
+
+.b3:hover {
+  transform: scale(1.2);
+  background-color: #b19cd9;
+  color: white;
+}
+
+.home {
+  background-color: #ffedbb;
+  border: none;
+  border-radius: 10%;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+.home {
+  background-color: #ffedbb;
+  color: black;
+  border: 6px solid#e7c873ad;
+}
+
+.home:hover {
+  transform: scale(1.2);
+  background-color: #ffedbb;
+  color: white;
+}
